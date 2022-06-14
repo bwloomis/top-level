@@ -1,0 +1,3 @@
+[submodule "sub-domain3"]
+	path = sub-domain3
+	url = https://github.com/bwloomis/sub-domain3
